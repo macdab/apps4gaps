@@ -152,6 +152,14 @@
 			opacity: 0.2;
 			border-radius: 8px;
 		}
+		
+	.image-standard
+	{
+		display: block;
+		height:282px;
+		width:282px;
+		margin: 0 0 2em 0;
+	}
 
 	.image-full
 	{
